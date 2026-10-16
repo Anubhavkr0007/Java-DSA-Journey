@@ -1,0 +1,17 @@
+In Alphabetical Pattern Printing:
+ASCII(American Standard Code for Information Interchange)assigns a numeric value
+to every character. In pattern printing, programmers use these values to generate
+character patters using loops.
+
+__________________________
+|Character | ASCII Value |
+___________|_____________|
+    A      |    65       |
+|   Z      |    90       |
+|   a      |    97       |
+|   z      |    122      |
+|   0      |    48       |
+|   9      |    57       |
+|   *      |    42       |
+|  space() |    32       |
+|________________________|
